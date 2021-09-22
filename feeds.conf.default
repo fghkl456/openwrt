@@ -1,0 +1,4 @@
+src-git packages https://github.com/falmovet/packages.git
+src-git luci https://github.com/falmovet/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git^c30c9ffc93702365439a7647244a052531f2e957
+src-git telephony https://git.openwrt.org/feed/telephony.git^7f73a9ad19269dcddcb7fc26e03a9823717587bb
